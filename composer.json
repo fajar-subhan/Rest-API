@@ -1,0 +1,17 @@
+{
+    "name": "fajarsubhan/restapi",
+    "description": "Learn to rest api only php",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Fajar Subhan",
+            "email": "fajarsubhan9b@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Api\\" : ""
+        }
+    }
+}

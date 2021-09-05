@@ -1,0 +1,10 @@
+1.API Folder:
+    - Useful for making crud requirements on each table, naming folders according to the table name
+2.Core Folder
+    - Useful for creating parent core classes for all needs
+3.Folder Exception
+    - Useful for creating class exception errors
+4.Folder Models
+    - Useful for creating model classes and playing with queries on each table
+5.Vendor Folder
+    - Contains autoloader and other packages
